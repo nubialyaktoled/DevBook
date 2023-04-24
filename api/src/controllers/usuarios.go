@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"api/repositorios"
 	"api/src/banco"
 	"api/src/modelos"
+	"api/src/repositorios"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
